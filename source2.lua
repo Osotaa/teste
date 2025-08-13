@@ -71,7 +71,7 @@ end
 
 local requestsDisabled = true --getgenv and getgenv().DISABLE_RAYFIELD_REQUESTS
 local InterfaceBuild = '3K3W'
-local Release = "Build 1.68"
+local Release = "By Shift Hub"
 local RayfieldFolder = "Rayfield"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
 local ConfigurationExtension = ".rfld"
@@ -3982,3 +3982,4 @@ task.delay(4, function()
 end)
 
 return RayfieldLibrary
+
